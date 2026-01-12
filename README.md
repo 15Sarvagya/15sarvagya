@@ -1,16 +1,38 @@
 ## Hi there 👋
 
-<!--
-**15Sarvagya/15sarvagya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Sarvagya Singh
 
-Here are some ideas to get you started:
+🎓 BTech Computer Science Student  
+💻 Aspiring Software Development Engineer (SDE)  
+📍 India  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate about **Data Structures & Algorithms**, **Backend Development**, and **problem-solving**. I enjoy building efficient solutions and continuously improving my coding skills.
+
+---
+
+## 🛠 Skills
+- **Languages:** C++, Python, SQL  
+- **DSA:** Arrays, Linked Lists, Trees, Graphs, DP, Greedy  
+- **Backend:** Django, REST APIs  
+- **Databases:** MySQL, SQLite  
+- **Tools:** Git, GitHub, Linux, VS Code
+
+---
+
+
+
+---
+
+## 📊 Coding Profiles
+- **LeetCode: https://leetcode.com/u/Sarvagya_15/
+
+
+---
+
+## 📫 Connect
+- **LinkedIn: https://www.linkedin.com/in/sarvagya-singh-845536288/
+- **Email: sarvagyasingh.15@gmail.com
+
+---
+
+⭐ Open to **internships & SDE roles**. Always learning, always building.
