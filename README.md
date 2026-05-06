@@ -3,19 +3,19 @@
 # 👋 Hi, I'm Sarvagya Singh
 
 🎓 BTech Computer Science Student  
-💻 Aspiring Software Development Engineer (SDE)  
+💻 Aspiring Machine Learning Engineer  
 📍 India  
 
-Passionate about **Data Structures & Algorithms**, **Backend Development**, and **problem-solving**. I enjoy building efficient solutions and continuously improving my coding skills.
+Passionate about **Machine Learning**, **Data Visualization**, and **problem-solving**. I enjoy building efficient solutions and continuously improving my coding skills.
 
 ---
 
 ## 🛠 Skills
 - **Languages:** C++, Python, SQL  
 - **DSA:** Arrays, Linked Lists, Trees, Graphs, DP, Greedy  
-- **Backend:** Django, REST APIs  
-- **Databases:** MySQL, SQLite  
-- **Tools:** Git, GitHub, Linux, VS Code
+- **Libraries:** Pandas, Numpy,Matplotlib,Seaborn
+- **Databases:** MySQL, SQLite , Kaggle
+- **Tools:** Git, GitHub,VS Code
 
 ---
 
@@ -35,4 +35,4 @@ Passionate about **Data Structures & Algorithms**, **Backend Development**, and 
 
 ---
 
-⭐ Open to **internships & SDE roles**. Always learning, always building.
+⭐ Open to **internships & ML roles**. Always learning, always building.
