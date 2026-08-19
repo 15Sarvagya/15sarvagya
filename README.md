@@ -30,7 +30,7 @@ Passionate about **Machine Learning**, **Data Visualization**, and **problem-sol
 ---
 
 ## 📫 Connect
-- **LinkedIn: https://www.linkedin.com/in/sarvagya-singh-845536288/
+- **LinkedIn: https://www.linkedin.com/in/sarvagya-singh-ml/
 - **Email: sarvagyasingh.15@gmail.com
 
 ---
