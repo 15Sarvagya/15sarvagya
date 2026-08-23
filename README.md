@@ -24,14 +24,14 @@ Passionate about **Machine Learning**, **Data Visualization**, and **problem-sol
 ---
 
 ## 📊 Coding Profiles
-- **LeetCode: https://leetcode.com/u/Sarvagya_15/
+- #**LeetCode**: https://leetcode.com/u/Sarvagya_15/
 
 
 ---
 
 ## 📫 Connect
-- **LinkedIn: https://www.linkedin.com/in/sarvagya-singh-ml/
-- **Email: sarvagyasingh.15@gmail.com
+- #**LinkedIn**: https://www.linkedin.com/in/sarvagya-singh-ml/
+- #**Email**: sarvagyasingh.15@gmail.com
 
 ---
 
