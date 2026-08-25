@@ -11,7 +11,7 @@ Passionate about **Machine Learning**, **Data Visualization**, and **problem-sol
 ---
 
 ## 🛠 Skills
-- **Languages:** C++, Python, SQL  
+- **Languages:** Python, SQL  
 - **DSA:** Arrays, Linked Lists, Trees, Graphs, DP, Greedy  
 - **Libraries:** Pandas, Numpy,Matplotlib,Seaborn
 - **Databases:** MySQL, SQLite , Kaggle
