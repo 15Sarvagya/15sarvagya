@@ -121,11 +121,16 @@ Hands-on learning projects covering neural networks, image processing and sequen
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=15Sarvagya&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=C4B5FD&icon_color=A78BFA&rank_icon=github" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=15Sarvagya&layout=compact&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=C4B5FD" alt="Most used programming languages"/>
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=15Sarvagya&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=C4B5FD&icon_color=A78BFA&rank_icon=github"
+    height="180"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=15Sarvagya&layout=compact&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=C4B5FD"
+    height="180"
+  />
+</p>
 
 <br/>
 
