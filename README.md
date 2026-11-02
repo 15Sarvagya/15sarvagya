@@ -76,9 +76,13 @@ I'm passionate about understanding how intelligent systems work and building pra
 I'm continuously expanding my knowledge in modern AI technologies.
 
  🔹 Transformers and Attention Mechanisms
+ 
  🔹 Large Language Models (LLMs)
+ 
  🔹 Generative AI
+ 
  🔹 Retrieval-Augmented Generation (RAG)
+ 
  🔹 LangChain and LangGraph
 
 *These are learning goals, not a claim of completed production experience.*
