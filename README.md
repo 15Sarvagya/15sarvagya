@@ -119,6 +119,16 @@ Hands-on learning projects covering neural networks, image processing and sequen
 
 <!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
 
+<h2 align="center">LeetCode Stats</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Sarvagya_15/">
+    <img src="https://leetcard.jacoblin.cool/Sarvagya_15?theme=dark&font=Baloo&ext=heatmap"
+         alt="LeetCode Stats and Activity Heatmap"/>
+  </a>
+</p>
+
+
 ## 📊 GitHub Statistics
 
 <p align="center">
