@@ -20,10 +20,15 @@ Hi! I'm **Sarvagya Singh**, a final-year B.Tech Computer Science student special
 I'm passionate about understanding how intelligent systems work and building practical applications using machine learning and deep learning.
 
  🎓 B.Tech CSE (AI & ML) — Expected 2027
+ 
  🧠 Interested in Machine Learning, Deep Learning and NLP
+ 
  🔭 Building practical AI/ML projects
+ 
  🌱 Currently exploring Transformers, LLMs and Generative AI
+ 
  💡 Interested in solving real-world problems through technology
+ 
  🎯 Aspiring AI/ML Engineer
 
 ---
