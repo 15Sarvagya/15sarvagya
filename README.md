@@ -147,12 +147,16 @@ Hands-on learning projects covering neural networks, image processing and sequen
   />
 </p>
 
-<br/>
+## 🔥 GitHub Contribution Streak
 
-<img width="65%" src="https://streak-stats.demolab.com?user=15Sarvagya&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=7DD3FC&currStreakLabel=7DD3FC" alt="GitHub contribution streak"/>
-
-<br/>
-
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com/?user=15Sarvagya&theme=dark&hide_border=true&background=0D1117&ring=7DD3FC&fire=A78BFA&currStreakLabel=C4B5FD"
+      alt="GitHub Contribution Streak"
+    />
+  </a>
+</p>
 <img src="https://komarev.com/ghpvc/?username=15Sarvagya&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge" alt="Profile views"/>
 
 </div>
